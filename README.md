@@ -2,8 +2,6 @@
 
 A complete example of integrating PayPal checkout functionality into a Next.js 15 application using TypeScript and Tailwind CSS.
 
-![PayPal Next.js Integration Flow](./public/paypal-flow-diagram.pngpaypal-flow-diagram.png)
-
 ## Features
 
 - Complete PayPal Smart Payment Buttons integration
